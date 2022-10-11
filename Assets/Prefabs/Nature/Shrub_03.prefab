@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 437086}
   - component: {fileID: 3380546}
   - component: {fileID: 2345272}
+  - component: {fileID: 8313930412182302450}
+  - component: {fileID: 1493600761600551010}
   m_Layer: 0
   m_Name: Shrub_03
   m_TagString: Untagged
@@ -83,3 +85,29 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &8313930412182302450
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 158626}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.45798397, y: 0.74385834, z: 0.5445709}
+  m_Center: {x: 0.00320673, y: 0.25188065, z: -0.0690155}
+--- !u!65 &1493600761600551010
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 158626}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.003893, y: 2.5963004, z: 3.92269}
+  m_Center: {x: -0.16040325, y: 1.6544105, z: 0.038338065}
