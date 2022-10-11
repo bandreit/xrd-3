@@ -3,12 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Panda
+  - Canvas
+  - Rabbit
+  - Frog
+  - Racoon
+  - lb_perchTarget
+  - TirgerArea
+  - lb_groundTarget
+  - Button1
+  - MaterialButtonLayer
+  - Button4
+  - Button2
+  - Button3
+  - MaterialText
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Teleport
   - Water
   - UI
   - 
