@@ -4,47 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee59d0b5-a1d7-48f6-bd11-b5f8d929670e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Controllers/Dwarf.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Controllers/Dwarf.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Apple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Apple.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Branch_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Branch_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Branch_5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Branch_5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Bush_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Bush_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Bush_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Bush_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Bush_03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Bush_03.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Carrot.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Carrot.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Flowers_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Flowers_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Flowers_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Flowers_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Ground_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Ground_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Ground_03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Ground_03.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Mushroom_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Mushroom_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_02.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_02.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_04.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_05.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Rock_05.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Shrub_03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Shrub_03.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Stump_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Stump_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_01.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_03.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_03.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_04.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_04.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_05.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Nature/Tree_05.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_1_LOD0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_1_LOD0.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_1_LOD1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_1_LOD1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_1_LOD2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_1_LOD2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_2_LOD0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_2_LOD0.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_2_LOD1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_2_LOD1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_3_LOD0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_3_LOD0.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_3_LOD2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_3_LOD2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_4_LOD0.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_4_LOD0.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_4_LOD1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_4_LOD1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_4_LOD2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_4_LOD2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_5_LOD1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_5_LOD1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_5_LOD2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Rocks/StylRocksMagic_5_LOD2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/Open XR Package Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="ee59d0b5-a1d7-48f6-bd11-b5f8d929670e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
