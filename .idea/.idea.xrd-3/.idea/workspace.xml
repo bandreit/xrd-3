@@ -9,11 +9,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/riderModule.iml" beforeDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Assets/Materials/LowPolyFarmLite_MAIN.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/LowPolyFarmLite_MAIN.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/shovel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/shovel.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/AndreiScene.unity" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/AndreiScene.unity.meta" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Drop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Drop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/WateringCan_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/WateringCan_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" afterDir="false" />
+>>>>>>> 365a2ef05775ae4d842f95868fb5acbb1bc822bc
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

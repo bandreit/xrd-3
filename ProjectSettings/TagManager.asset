@@ -19,6 +19,7 @@ TagManager:
   - Button3
   - MaterialText
   - Shovel
+  - Drop
   layers:
   - Default
   - TransparentFX
