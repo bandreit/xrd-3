@@ -18,6 +18,7 @@ TagManager:
   - Button2
   - Button3
   - MaterialText
+  - Drop
   layers:
   - Default
   - TransparentFX

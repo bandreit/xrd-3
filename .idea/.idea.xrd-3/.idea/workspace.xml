@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee59d0b5-a1d7-48f6-bd11-b5f8d929670e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/New Material.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Drop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Drop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/WateringCan_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/WateringCan_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +44,9 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
@@ -49,8 +54,9 @@
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
       <option name="selectedOptions">
-        <set />
+        <list />
       </option>
       <method v="2" />
     </configuration>
