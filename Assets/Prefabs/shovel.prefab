@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 4016014675509837870}
   - component: {fileID: 6641422455092431063}
   - component: {fileID: 6988104780596407889}
+  - component: {fileID: 2247380866603701085}
   m_Layer: 0
   m_Name: shovel
-  m_TagString: Untagged
+  m_TagString: Shovel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -63,9 +64,9 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -1089126497472809270, guid: 4664ff5e550dfee44abb6f1929d0992c, type: 3}
-  - {fileID: 1868007137950588808, guid: 4664ff5e550dfee44abb6f1929d0992c, type: 3}
-  - {fileID: 4874126678125670354, guid: 4664ff5e550dfee44abb6f1929d0992c, type: 3}
+  - {fileID: 2100000, guid: a7b9fc6e99c264260b8c2fbae1bbaa66, type: 2}
+  - {fileID: 2100000, guid: a7b9fc6e99c264260b8c2fbae1bbaa66, type: 2}
+  - {fileID: 2100000, guid: a7b9fc6e99c264260b8c2fbae1bbaa66, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -113,3 +114,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.019845905, y: 0.022896722, z: 0.00362085}
   m_Center: {x: -0.000007717939, y: -0.000048851798, z: 0.04927463}
+--- !u!54 &2247380866603701085
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5953420271611959583}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

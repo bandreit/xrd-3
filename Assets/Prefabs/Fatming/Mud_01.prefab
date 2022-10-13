@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8209775890509008858}
   - component: {fileID: 8209775890507910426}
   - component: {fileID: 2290102815593137865}
-  - component: {fileID: 2022326063345022633}
+  - component: {fileID: 1843493871477430178}
   m_Layer: 0
   m_Name: Mud_01
   m_TagString: Untagged
@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 382e2b1b7fbf94945963320a17603c7c, type: 2}
+  - {fileID: 2100000, guid: 04d046d0f94c64399be4e9384a475113, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -99,7 +99,7 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: aaff327437b0be14f9c6d1be9b411708, type: 3}
---- !u!114 &2022326063345022633
+--- !u!114 &1843493871477430178
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -108,7 +108,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8209775890509911002}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86bbad342466d4b74a90545a208ccae5, type: 3}
+  m_Script: {fileID: 11500000, guid: 4b106dd85d26a400c9ca42616b7bf235, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vegetables: []
+  interactedWithShovel: 0
