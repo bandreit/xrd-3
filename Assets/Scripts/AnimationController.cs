@@ -13,18 +13,20 @@ public class AnimationController : MonoBehaviour
 
     private void Start()
     {
-        animator = GetComponent<Animator>();
-        // GameObject canvasObj = GameObject.FindGameObjectWithTag("Canvas");
-        // canvas = canvasObj.GetComponent<Canvas>();
+         animator = GetComponent<Animator>();
+         //GameObject canvasObj = GameObject.FindGameObjectWithTag("Canvas");
+         //canvas = canvasObj.GetComponent<Canvas>();
     }
 
     private void OnTriggerEnter(Collider other)
     {
+        Debug.Log("ENTER");
+           
         if (other.gameObject.CompareTag(cameraTag))
         {
             if (didEnter) return;
             animator.SetBool("isDancing", true);
-            canvas.enabled = true;
+            //canvas.enabled = true;
             didEnter = true;
         }
     }

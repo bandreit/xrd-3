@@ -18,6 +18,7 @@ TagManager:
   - Button2
   - Button3
   - MaterialText
+  - XROrigin
   layers:
   - Default
   - TransparentFX
@@ -25,7 +26,7 @@ TagManager:
   - Teleport
   - Water
   - UI
-  - 
+  - Interact
   - 
   - 
   - 
