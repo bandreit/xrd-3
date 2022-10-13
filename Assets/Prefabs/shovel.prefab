@@ -11,6 +11,8 @@ GameObject:
   - component: {fileID: 661020631955606928}
   - component: {fileID: 5206722254725007102}
   - component: {fileID: 4016014675509837870}
+  - component: {fileID: 6641422455092431063}
+  - component: {fileID: 6988104780596407889}
   m_Layer: 0
   m_Name: shovel
   m_TagString: Untagged
@@ -85,3 +87,29 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!65 &6641422455092431063
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5953420271611959583}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.0053821006, y: 0.0054001976, z: 0.102388754}
+  m_Center: {x: 0.0000028757895, y: 0.008699429, z: 0.00000846359}
+--- !u!65 &6988104780596407889
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5953420271611959583}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.019845905, y: 0.022896722, z: 0.00362085}
+  m_Center: {x: -0.000007717939, y: -0.000048851798, z: 0.04927463}
