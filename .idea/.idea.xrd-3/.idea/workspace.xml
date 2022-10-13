@@ -9,16 +9,30 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.xrd-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.xrd-3/riderModule.iml" beforeDir="false" />
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/LowPolyFarmLite_MAIN.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/LowPolyFarmLite_MAIN.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/shovel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/shovel.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AndreiScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AndreiScene.unity.meta" beforeDir="false" />
+=======
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Drop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Drop.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/Mud_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fatming/WateringCan_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Fatming/WateringCan_01.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AlbertScene.unity" afterDir="false" />
+>>>>>>> 365a2ef05775ae4d842f95868fb5acbb1bc822bc
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9d75cd4746ec4a23b874ca932281c4da157a00/2a/89cba635/Color.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,6 +46,7 @@
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -62,6 +77,17 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee59d0b5-a1d7-48f6-bd11-b5f8d929670e" name="Changes" comment="" />
+      <created>1665647344990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665647344990</updated>
+      <workItem from="1665647348643" duration="3972000" />
+    </task>
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
