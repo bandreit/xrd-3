@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.XR.Interaction.Toolkit;
 
 public class GrowthController : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class GrowthController : MonoBehaviour
     private float initialScale = 0f;
     private bool isWatered = false;
     private int count = 0;
+
     void Start()
     {
         InvokeRepeating ("VegetablesToGrow", growTime, growTime);
@@ -40,6 +42,19 @@ public class GrowthController : MonoBehaviour
             ScaleUp();
             count++;
             initialScale += isCarrot ? 0.1f :0.2f;
+        }
+        if(count == repeatTime)
+        {
+            foreach (var vegetable in vegetables)
+            {
+                if (vegetable.tag == "TomatoPlant") {
+                    vegetable.GetComponent<TomatoController>().enabled = true;
+                } else {
+                    vegetable.GetComponent<XRGrabInteractable>().enabled = true;
+                    vegetable.GetComponent<Rigidbody>().isKinematic = false;
+                }
+            }
+
         }
     }
 

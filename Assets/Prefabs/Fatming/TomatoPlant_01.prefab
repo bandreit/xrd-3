@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 2906742830762671423}
   - component: {fileID: 2906742830763671551}
   - component: {fileID: 7999037779904706423}
+  - component: {fileID: 5357055480230513756}
   m_Layer: 0
   m_Name: TomatoPlant_01
-  m_TagString: Untagged
+  m_TagString: TomatoPlant
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -92,9 +93,23 @@ MeshCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2906742830765859135}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 4
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 88133688ce354be4c85e1c167e475c5a, type: 3}
+--- !u!114 &5357055480230513756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2906742830765859135}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf3ac05f69dcde40accb495ad4f7bae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TomatoPrefab: {fileID: 5473569773201198281, guid: fd8e0760db14a534a89257f68a4f2a8c,
+    type: 3}

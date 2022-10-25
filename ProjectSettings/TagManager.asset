@@ -20,6 +20,7 @@ TagManager:
   - MaterialText
   - Shovel
   - Drop
+  - TomatoPlant
   layers:
   - Default
   - TransparentFX

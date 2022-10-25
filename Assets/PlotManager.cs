@@ -40,7 +40,7 @@ public class PlotManager : MonoBehaviour
                 break;
         }
         
-        if (interactedWithShovel > 0)
+        if (interactedWithShovel > 0 && interactedWithShovel < 4)
         {
             rend.material.color = Color.Lerp(colorStart, colorEnd, t);
         
@@ -52,10 +52,11 @@ public class PlotManager : MonoBehaviour
        
     }
 
-    private void OnCollisionEnter(Collision other)
-    {
+  
+    private void OnTriggerEnter(Collider other)
+{
         if (!other.gameObject.CompareTag(ToolTag))
-            return;
+         return;
 
         colorStart = rend.material.color;
         interactedWithShovel += 1;
