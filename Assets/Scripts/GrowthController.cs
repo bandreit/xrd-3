@@ -47,7 +47,7 @@ public class GrowthController : MonoBehaviour
         {
             foreach (var vegetable in vegetables)
             {
-                if (vegetable.tag == "TomatoPlant") {
+                if (vegetable.tag.CompareTag("TomatoPlant")) {
                     vegetable.GetComponent<TomatoController>().enabled = true;
                 } else {
                     vegetable.GetComponent<XRGrabInteractable>().enabled = true;
