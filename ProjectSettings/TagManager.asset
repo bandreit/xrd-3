@@ -21,6 +21,7 @@ TagManager:
   - Shovel
   - Drop
   - TomatoPlant
+  - intro_text
   layers:
   - Default
   - TransparentFX
