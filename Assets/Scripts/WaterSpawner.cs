@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class WaterSpawner : MonoBehaviour
 {
-
     [SerializeField] private GameObject prefab;
     [SerializeField] private GameObject parent;
     private float spawnTime = 0.17f;
@@ -16,11 +15,6 @@ public class WaterSpawner : MonoBehaviour
         InvokeRepeating ("SpawnDrop", spawnTime, spawnTime);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
- 
     void SpawnDrop()
     {
         if (parent.transform.rotation.eulerAngles.x >= 70  )

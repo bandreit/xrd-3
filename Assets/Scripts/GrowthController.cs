@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 using UnityEngine.XR.Interaction.Toolkit;
 
 public class GrowthController : MonoBehaviour
@@ -47,7 +48,7 @@ public class GrowthController : MonoBehaviour
         {
             foreach (var vegetable in vegetables)
             {
-                if (vegetable.tag == "TomatoPlant") {
+                if (String.Equals(vegetable.tag, "TomatoPlant")) {
                     vegetable.GetComponent<TomatoController>().enabled = true;
                 } else {
                     vegetable.GetComponent<XRGrabInteractable>().enabled = true;
@@ -62,7 +63,7 @@ public class GrowthController : MonoBehaviour
     {
         foreach (var vegetable in vegetables)
         {
-            float randomScale = initialScale + Random.Range(0.1f, 0.18f);
+            float randomScale = initialScale + UnityEngine.Random.Range(0.1f, 0.18f);
             float scaleToAssign = isCarrot ? initialScale : randomScale;
             vegetable.transform.localScale = new Vector3(scaleToAssign, scaleToAssign, scaleToAssign);
         }

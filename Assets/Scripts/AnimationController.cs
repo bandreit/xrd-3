@@ -14,8 +14,6 @@ public class AnimationController : MonoBehaviour
     private void Start()
     {
         animator = GetComponent<Animator>();
-        // GameObject canvasObj = GameObject.FindGameObjectWithTag("Canvas");
-        // canvas = canvasObj.GetComponent<Canvas>();
     }
 
     private void OnTriggerEnter(Collider other)
@@ -37,29 +35,4 @@ public class AnimationController : MonoBehaviour
             animator.SetBool("isWaving", true);
         }
     }
-
-
-    // public void FirstButton()
-    // {
-    //     Debug.Log("Button 1");
-    //     canvas.enabled = false;
-    // }
-    //
-    // public void SecondButton()
-    // {
-    //     Debug.Log("Button 2");
-    //     canvas.enabled = false;
-    // }
-    //
-    // public void ThirdButton()
-    // {
-    //     Debug.Log("Button 3");
-    //     canvas.enabled = false;
-    // }
-    //
-    // public void FourthButton()
-    // {
-    //     Debug.Log("Button 4");
-    //     canvas.enabled = false;
-    // }
 }

@@ -72,24 +72,12 @@ public class lb_Bird : MonoBehaviour {
 		anim = gameObject.GetComponent<Animator>();
 
 		idleAnimationHash = Animator.StringToHash("Base Layer.Idle");
-		//singAnimationHash = Animator.StringToHash ("Base Layer.sing");
-		//ruffleAnimationHash = Animator.StringToHash ("Base Layer.ruffle");
-		//preenAnimationHash = Animator.StringToHash ("Base Layer.preen");
-		//peckAnimationHash = Animator.StringToHash ("Base Layer.peck");
-		//hopForwardAnimationHash = Animator.StringToHash ("Base Layer.hopForward");
-		//hopBackwardAnimationHash = Animator.StringToHash ("Base Layer.hopBack");
-		//hopLeftAnimationHash = Animator.StringToHash ("Base Layer.hopLeft");
-		//hopRightAnimationHash = Animator.StringToHash ("Base Layer.hopRight");
-		//worriedAnimationHash = Animator.StringToHash ("Base Layer.worried");
-		//landingAnimationHash = Animator.StringToHash ("Base Layer.landing");
 		flyAnimationHash = Animator.StringToHash ("Base Layer.fly");
 		hopIntHash = Animator.StringToHash ("hop");
 		flyingBoolHash = Animator.StringToHash("flying");
-		//perchedBoolHash = Animator.StringToHash("perched");
 		peckBoolHash = Animator.StringToHash("peck");
 		ruffleBoolHash = Animator.StringToHash("ruffle");
 		preenBoolHash = Animator.StringToHash("preen");
-		//worriedBoolHash = Animator.StringToHash("worried");
 		landingBoolHash = Animator.StringToHash("landing");
 		singTriggerHash = Animator.StringToHash ("sing");
 		flyingDirectionHash = Animator.StringToHash("flyingDirectionX");
@@ -137,7 +125,7 @@ public class lb_Bird : MonoBehaviour {
 		anim.SetBool(landingBoolHash, false);
 
 		//Wait to apply velocity until the bird is entering the flying animation
-		while(anim.GetCurrentAnimatorStateInfo(0).nameHash != flyAnimationHash){
+		while(anim.GetCurrentAnimatorStateInfo(0).fullPathHash != flyAnimationHash){
 			yield return 0;
 		}
 
@@ -356,7 +344,7 @@ public class lb_Bird : MonoBehaviour {
 	}
 	
 	void OnGroundBehaviors(){
-		idle = anim.GetCurrentAnimatorStateInfo(0).nameHash == idleAnimationHash;
+		idle = anim.GetCurrentAnimatorStateInfo(0).fullPathHash == idleAnimationHash;
 		if(!GetComponent<Rigidbody>().isKinematic){
 			GetComponent<Rigidbody>().isKinematic = true;
 		}
